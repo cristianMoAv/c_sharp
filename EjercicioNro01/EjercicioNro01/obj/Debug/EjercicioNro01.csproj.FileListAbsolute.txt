@@ -1,1 +1,7 @@
 C:\Users\NaGo\Desktop\Programación_CSharp\EjercicioNro01\EjercicioNro01\bin\Debug\EjercicioNro01.exe.config
+C:\Users\NaGo\Desktop\Guía_Ejr_POO_2017\EjercicioNro01\EjercicioNro01\bin\Debug\EjercicioNro01.exe.config
+C:\Users\NaGo\Desktop\Guía_Ejr_POO_2017\EjercicioNro01\EjercicioNro01\obj\Debug\EjercicioNro01.csprojResolveAssemblyReference.cache
+C:\Users\NaGo\Desktop\Guía_Ejr_POO_2017\EjercicioNro01\EjercicioNro01\bin\Debug\EjercicioNro01.exe
+C:\Users\NaGo\Desktop\Guía_Ejr_POO_2017\EjercicioNro01\EjercicioNro01\bin\Debug\EjercicioNro01.pdb
+C:\Users\NaGo\Desktop\Guía_Ejr_POO_2017\EjercicioNro01\EjercicioNro01\obj\Debug\EjercicioNro01.exe
+C:\Users\NaGo\Desktop\Guía_Ejr_POO_2017\EjercicioNro01\EjercicioNro01\obj\Debug\EjercicioNro01.pdb
