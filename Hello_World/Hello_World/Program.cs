@@ -11,16 +11,12 @@ namespace Hello_World
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+            Console.ReadKey();//para que me lea lo ingresado por Console
 
-            //para que me lea lo ingresado por Console
+            Console.WriteLine("{0,10}{1,-10}{2}", 10, 15, 23);
+            
+            Console.WriteLine("{0,10:#,###.00}{1,10}", 10.476, 15.355);
             Console.ReadKey();
-	    //AGREGO ESTE COMENTARIO COMO PRUEBA GIT
-        /*Podemos generar comentarios de 
-         * Varias líneas de esta manera
-         * Sirve para realizar parrafos de comentarios o tambien 
-         * Para comentar bloques de Código
-         */
-
         }
     }
 }

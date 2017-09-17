@@ -7,3 +7,9 @@ C:\Users\NaGo\Desktop\Programación_CSharp\T_01\Hello_World\Hello_World\obj\Debu
 C:\Users\NaGo\Desktop\Programación_CSharp\Hello_World\Hello_World\bin\Debug\Hello_World.exe.config
 C:\Users\NaGo\Desktop\Programación_CSharp\Hello_World\Hello_World\obj\Debug\Hello_World.exe
 C:\Users\NaGo\Desktop\Programación_CSharp\Hello_World\Hello_World\obj\Debug\Hello_World.pdb
+C:\Users\NaGo\Desktop\Guía_Ejr_POO_2017\Hello_World\Hello_World\bin\Debug\Hello_World.exe.config
+C:\Users\NaGo\Desktop\Guía_Ejr_POO_2017\Hello_World\Hello_World\obj\Debug\Hello_World.exe
+C:\Users\NaGo\Desktop\Guía_Ejr_POO_2017\Hello_World\Hello_World\obj\Debug\Hello_World.pdb
+C:\Users\NaGo\Desktop\Guía_Ejr_POO_2017\Hello_World\Hello_World\bin\Debug\Hello_World.exe
+C:\Users\NaGo\Desktop\Guía_Ejr_POO_2017\Hello_World\Hello_World\bin\Debug\Hello_World.pdb
+C:\Users\NaGo\Desktop\Guía_Ejr_POO_2017\Hello_World\Hello_World\obj\Debug\Hello_World.csprojResolveAssemblyReference.cache
